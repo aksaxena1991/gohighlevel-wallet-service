@@ -1,7 +1,7 @@
 # Go High Level Wallet Microservice 
 
-This is a sample authentication application built with Node.js, Express.js, MongoDB, and JSON Web Token (JWT).
-It allows users to sign up and log in, and implements basic authentication and authorization.
+This is a simple wallet microservice built with Node.js, Express.js, MongoDB, and services are authorized with JSON Web Token (JWT).
+Wallet service is authorized with shared session with auth microservice.
 
 ### Requirements
 - Node.js and npm
